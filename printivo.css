@@ -1,0 +1,227 @@
+.parent{
+    display: flex;
+    gap: 5rem;
+    color: #384a62;
+    padding-left: 2rem;
+
+}
+.need{
+    position: absolute;
+    top: -9px;
+    left: 535px;
+}
+.need1{
+    color: blue;
+    position: absolute;
+    left: 535px;
+}
+.butt{
+    margin-left: 500px;
+    height: 35px;
+    width: 90px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    background-color: white;
+    margin-top: 8px;
+
+}
+.div2{
+    height: 550px;
+    width: 100%;
+    background-color: #ece8d9;
+    margin-top: 20px;
+    
+}
+.img{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.text-div{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    position: absolute;
+    top: 105px;
+    left: 480px;
+}
+.signin{
+    color: burlywood;
+}
+
+.qual{
+    font-size: 70px;
+    margin-left: 40px;
+    color: #384a62;
+    font-family: serif;
+}
+.shipped{
+    margin-left: 40px;
+    margin-top: -40px;
+    color: #384a62;
+    font-size: 30px;
+}
+.print{
+    margin-left: 40px;
+    margin-bottom: 800px;
+}
+.inp-div{
+margin-top: -790px;
+margin-left: 40px;
+}
+.inp{
+    width: 590px;
+    height: 80px;
+    padding-left: 20px;
+    color: lightslategray;
+    font-weight: 5000px;
+}
+.mi-img{
+    margin-left: -290px;
+    margin-top: 150px;
+    height: 300px;
+    width: 400px;
+}
+.po{
+    display: flex;
+    justify-content: space-between; 
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.see{
+    
+}
+.printing{
+border: 1px;
+width: 2900px;
+height: 1500px;
+padding: 2rem;
+display: grid;
+gap: 3rem;
+grid-template-columns: repeat(4, 250px);
+grid-template-rows: repeat(3, 400px);
+}
+
+.grid-chi{
+    border: 1px solid grey;
+
+}
+.imgggg{
+    width: 100%;
+    height: 50%;
+}
+.inpp{
+    width: 190px;
+    height: 3px;
+    background-color: #d77f81;
+    border: none;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+
+.pop{
+    border: 1px solid red;
+}
+.popular{
+    display: grid;
+    gap: 4rem;
+    grid-template-columns: repeat(2, 280px);
+    grid-template-rows: repeat(1, 380px);
+    padding: 2rem;
+
+}
+.cat{
+    padding: 2rem;
+}
+.catt{
+    padding-left: 2rem;
+}
+.pop1{
+    width: 100%;
+    height: 170px;
+}
+.pop2{
+    width: 100%;
+    height: 170px;
+}
+.get{
+    padding-left: 15px;
+}
+.str{
+padding: 15px;
+}
+.perr{
+    padding-left: 15px;
+}
+
+.micro{
+    padding-left: 2rem;
+    width: 90%;
+}
+.cust-back{
+    background-color: blue;
+    width: 100%;
+    height: 300px;
+}
+.cust{
+    width: 100%;
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    grid-template-rows: repeat(1, 200px);
+    gap: 2rem;
+    justify-content: center;
+}
+.what{
+    padding-left: 2rem;
+}
+.nig{
+    padding-left: 2rem;
+}
+.amin{
+    background-color: red;
+    margin-top: 50px;
+
+}
+.count{
+    background-color: lightgray;
+    font-size: large;
+    height: 280px;
+    padding: 2rem;
+}
+.quali{
+   position: absolute;
+   left: 550px;
+   top: 4073px;
+}
+.ordd{
+    padding-left: 4rem;
+}
+.afford{
+    position: absolute;
+    top: 4073px;
+    left: 980px;
+}
+.amazing{
+    background-color: antiquewhite;
+    height: 300px;
+    padding: 2rem;
+}
+.amazing{
+    gap: 1rem;
+}
+.read{
+    display: flex;
+}
+.int{
+    background-color: #384a62;
+    padding-left: 2rem;
+    padding-top: 3rem;
+    height: 300px;
+    display: flex;
+    gap: 9rem;
+    margin-top: -55px;
+    font-size: large;
+}
